@@ -1,64 +1,41 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Treelatives
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Tentang Treelatives
 
-## About Laravel
+Treelatives adalah sebuah aplikasi sosial media berbasis web yang memiliki fitur utama membuat gambar dari garis keturunan anda, yang mana akan direpresentasikan sebagai sebuah _pohon_. Anda dapat membuat, menghubungkan, menyamakan serta membagikan _pohon_ anda dan kerabat-kerabat anda kepada orang lain. Berikut fitur-fitur yang terdapat pada aplikasi ini:
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### Fitur Utama
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Menggambar _pohon_ secara mandiri
+- Menghubungkan dan menyamakan _pohon_ yang satu dengan yang lainnya dengan persetujuan pihak-pihak yang bersangkutan
+- Membagikan _pohon_
+- Semacam peringatan apabila terjadi perbedaan pada _pohon_ yang sudah terhubung dengan _pohon_ lain
+- Menambahkan hubungan pertemanan dengan orang lain
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Fitur Tambahan
 
-## Learning Laravel
+- Otentikasi (Masuk, Daftar, Ubah Informasi Akun, Lupa Kata sandi, Verifikasi Email)
+- Mengobrol
+- Profil pengguna
+- Notifikasi
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Fitur Lanjutan*
+- Hadiah harian
+- Misi harian
+- Koin Treelatives
+- Toko oleh-oleh
+- Mengirim oleh-oleh _(meningkatkan poin kedekatan dengan orang lain)_
+- Kutipan-kutipan hadits tentang keutamaan menyambung tali silaturahmi
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Berkontribusi
 
-## Laravel Sponsors
+Terimakasih telah mempertimbangkan untuk berkontribusi pada projek ini! Panduan kontribusi dapat ditemukan di [Treelatives Contribution Guide](https://github.com/fmukhlis/treelatives/blob/main/CONTRIBUTION.md).
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Kode Etik
 
-### Premium Partners
+Dalam rangka memastikan komunitas treelatives developer menyambut semua orang, harap tinjau dan patuhi [Code of Conduct](https://github.com/fmukhlis/treelatives/blob/main/CODE_OF_CONDUCT.md).
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+<br>
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+**NOTE**  
+_Untuk fitur lanjutan, akan digarap setelah semua fitur utama dan tambahan selesai_
