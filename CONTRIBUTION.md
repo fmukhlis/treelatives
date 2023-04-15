@@ -11,3 +11,14 @@ Jika anda bermaksud hanya memperbaiki bug, tidak apa-apa untuk segera mengirimka
 Jika Anda memutuskan untuk memperbaiki suatu masalah, pastikan untuk memeriksa komentar barangkali seseorang sedang mengerjakan perbaikan tersebut. Jika tidak ada yang sedang mengerjakannya saat ini, silakan tinggalkan komentar yang menyatakan bahwa Anda berniat untuk mengerjakannya sehingga tidak ada orang lain yang sengaja sengaja meniru usaha Anda.
 
 Jika seseorang mengklaim suatu masalah tetapi tidak menindaklanjutinya selama lebih dari dua minggu, tidak apa-apa untuk mengambilnya tetapi Anda tetap harus memberikan komentar.
+
+Sebelum mengirimkan pull request, harap pastikan hal-hal berikut telah dilakukan:
+
+1. Fork [repositori](https://github.com/fmukhlis/treelatives) dan buat cabang Anda dari `main`.
+2. Jalankan `composer install` pada root repositori.
+3. Jalankan `npm install` pada root repositori.
+4. Jalankan `npm run dev` pada root repositori.
+5. Jika Anda telah memperbaiki bug atau menambahkan kode yang harus diuji, tambahkan pengujian !
+6. Pastikan semua pengujian lulus `php artisan test`.
+
+Pelajari lebih lanjut tentang panduan berkontribusi pada [Treelatives Contribution Guide](https://github.com/fmukhlis/treelatives/blob/main/CONTRIBUTION.md)
