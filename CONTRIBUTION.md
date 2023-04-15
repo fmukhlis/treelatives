@@ -2,7 +2,7 @@
 
 ## _Branch_ Yang Mana ?
 
-Selain perubahan yang merusak, kirim semua perubahan ke _branch_ **main**.  Kami melakukan yang terbaik untuk menjaga _branch_ **main** dalam kondisi yang baik, dengan semua tes lulus. Kode yang mendarat di _branch_ **main** harus kompatibel dengan rilis stabil terbaru. Boleh berisi fitur tambahan, tetapi tidak boleh ada perubahan yang merusak. Perubahan yang merusak harus dikirim ke _branch_ **experimental**.
+Selain perubahan yang merusak, kirim semua perubahan ke _branch_ **main**. Kami melakukan yang terbaik untuk menjaga _branch_ **main** dalam kondisi yang baik, dengan semua tes lulus. Kode yang mendarat di _branch_ **main** harus kompatibel dengan rilis stabil terbaru. Boleh berisi fitur tambahan, tetapi tidak boleh ada perubahan yang merusak. Perubahan yang merusak harus dikirim ke _branch_ **experimental**.
 
 ## _Pull Request_
 
