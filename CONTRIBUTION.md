@@ -17,8 +17,7 @@ Sebelum mengirimkan pull request, harap pastikan hal-hal berikut telah dilakukan
 1. Fork [repositori](https://github.com/fmukhlis/treelatives) dan buat cabang Anda dari `main`.
 2. Jalankan `composer install` pada root repositori.
 3. Jalankan `npm install` pada root repositori.
-4. Jalankan `npm run dev` pada root repositori.
-5. Jika Anda telah memperbaiki bug atau menambahkan kode yang harus diuji, tambahkan pengujian !
-6. Pastikan semua pengujian lulus `php artisan test`.
+4. Jika Anda telah memperbaiki bug atau menambahkan kode yang harus diuji, tambahkan pengujian !
+5. Pastikan semua pengujian lulus (Jalankan: `php artisan test`).
 
 Pelajari lebih lanjut tentang panduan berkontribusi pada [Treelatives Contribution Guide](https://github.com/fmukhlis/treelatives/blob/main/CONTRIBUTION.md)
