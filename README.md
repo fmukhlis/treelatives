@@ -44,7 +44,7 @@ Berikut fitur-fitur yang terdapat pada aplikasi ini:
 
 ## Berkontribusi
 
-Terimakasih telah mempertimbangkan untuk berkontribusi pada projek ini! Panduan kontribusi dapat ditemukan di [Treelatives Contribution Guide](https://github.com/fmukhlis/treelatives/blob/main/CONTRIBUTION.md)
+Terimakasih telah mempertimbangkan untuk berkontribusi pada projek ini! Panduan kontribusi dapat ditemukan di [Treelatives Contribution Guide](https://github.com/fmukhlis/treelatives/blob/main/CONTRIBUTING.md)
 
 ## Kode Etik
 
