@@ -3,13 +3,13 @@
   We appreciate you spending the time to work on these changes. Please provide enough information so that others can review your pull request. 
 
   Before submitting a pull request, please make sure the following is done:
-  1. Fork [the repository](https://github.com/fmukhlis/treelatives) dan buat cabang Anda dari `main`.
+  1. Fork [the repository](https://github.com/fmukhlis/treelatives) dan make your own branch from main.
   2. Run `composer install` in the repository root.
   3. Run `npm install` in the repository root.
   5. If you've fixed a bug or added code that should be tested, add tests!
   6. Ensure the test suite passes (run: `php artisan test`).
 
-  Learn more about contributing: [Treelatives Contribution Guide](https://github.com/fmukhlis/treelatives/blob/main/CONTRIBUTION.md)
+  Learn more about contributing: [Treelatives Contribution Guide](https://github.com/fmukhlis/treelatives/blob/main/CONTRIBUTING.md)
 -->
 
 ## Summary
